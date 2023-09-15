@@ -504,8 +504,20 @@ section {
   background: #f2f3f5;
 }
 
+.skills h3 {
+  font-size: 26px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #45505b;
+}
+
 .skills-hard {
   padding: 20px 0;
+}
+
+.skills-hard h5 {
+  color: #0563bb;
 }
 
 .skills-hard .progress-bar {
